@@ -1,4 +1,4 @@
-package BowlerStudioExtended;
+package bowlerStudioExtended;
 
 import com.neuronrobotics.bowlerstudio.BowlerStudio;
 

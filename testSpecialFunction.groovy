@@ -1,3 +1,3 @@
-import BowlerStudioExtended.MyNewFunction
+import bowlerStudioExtended.MyNewFunction
 
 MyNewFunction.callMe()

@@ -1,4 +1,4 @@
-package BowlerStudioExtended;
+package bowlerStudioExtended;
 
 public class MyNewFunction {
 	public static boolean callMe() {
