@@ -1,8 +1,10 @@
 package bowlerStudioExtended;
 
+import com.neuronrobotics.bowlerstudio.BowlerKernel;
+
 public class MyNewFunction {
 	public static boolean callMe() {
-		System.out.println("My special function is modified");
+		BowlerKernel.speak("My special function is Awesome");
 		return true;
 	}
 }
